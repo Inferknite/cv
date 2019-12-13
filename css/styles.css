@@ -1,0 +1,30 @@
+  body {
+background-color: #dff6f0;
+    }
+  hr {
+    border-color:grey ;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    height: 1px;
+    width: 33px;
+    }
+  img {
+    height: 150px;
+
+  }
+  h1 {
+    color: #018383;
+  }
+  h3 {
+    color: #018383;
+  }
+
+  form {
+    padding: 15px;
+    color: #018383;
+    border: thick double;
+    border-width: 4px;
+    background-origin: border-box;
+
+}
